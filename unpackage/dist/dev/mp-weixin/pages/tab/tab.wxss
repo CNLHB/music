@@ -1,0 +1,25 @@
+.tab.data-v-6d25d86e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 44px;
+  line-height: 44px;
+  font-size: 14px;
+}
+.tab .tab-item.data-v-6d25d86e {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  text-align: center;
+}
+.tab .tab-item .tab-link.data-v-6d25d86e {
+  padding-bottom: 5px;
+  color: rgba(255,255,255,0.5);
+}
+.tab .tab-item.router-link-active .tab-link.data-v-6d25d86e {
+  color: #ffcd32;
+  border-bottom: 2px solid #ffcd32;
+}
+

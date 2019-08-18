@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "mheader": "/components/m-header/m-header",
+    "tab": "/pages/tab/tab",
+    "recommend": "/pages/recommend/recommend",
+    "rank": "/pages/rank/rank",
+    "singer": "/pages/singer/singer",
+    "search": "/pages/search/search"
+  }
+}

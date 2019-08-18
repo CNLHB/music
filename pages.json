@@ -1,0 +1,90 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"app-plus": {
+					// "titleNView": false
+					// {
+					// 	"titleText": "音乐改变生活",
+					// 	"buttons": [{"type": "home"}]
+					// }
+				}
+			}
+		}
+	    ,{
+            "path" : "pages/recommend/recommend",
+            "style" : {
+				"app-plus": {
+					"titleNView": false
+					// {
+					// 	"titleText": "音乐改变生活",
+					// 	"buttons": [{"type": "home"}]
+					// }
+				}
+			}
+        }
+        ,{
+            "path" : "pages/singer/singer",
+            "style" : {
+				"app-plus": {
+					"titleNView": false
+					// {
+					// 	"titleText": "音乐改变生活",
+					// 	"buttons": [{"type": "home"}]
+					// }
+				}				
+			}
+        }
+        ,{
+            "path" : "pages/rank/rank",
+            "style" : {
+				"app-plus": {
+					"titleNView": false
+					// {
+					// 	"titleText": "音乐改变生活",
+					// 	"buttons": [{"type": "home"}]
+					// }
+				}				
+			}
+        }
+        ,{
+            "path" : "pages/search/search",
+            "style" : {
+				"app-plus": {
+					"titleNView": false
+					// {
+					// 	"titleText": "音乐改变生活",
+					// 	"buttons": [{"type": "home"}]
+					// }
+				}				
+			}
+        }
+        ,{
+            "path" : "pages/tab/tab",
+            "style" : {
+				"app-plus": {
+					"titleNView": false
+					// {
+					// 	"titleText": "音乐改变生活",
+					// 	"buttons": [{"type": "home"}]
+					// }
+				}				
+			}
+        }
+        ,{
+            "path" : "pages/singerInfo/singerInfo",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/music-list/music-list",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "音乐改变生活",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

@@ -1,0 +1,99 @@
+.tab.data-v-6d25d86e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 44px;
+  line-height: 44px;
+  font-size: 14px;
+}
+.tab .tab-item.data-v-6d25d86e {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  text-align: center;
+}
+.tab .tab-item .tab-link.data-v-6d25d86e {
+  padding-bottom: 5px;
+  color: rgba(255,255,255,0.5);
+}
+.tab .tab-item.router-link-active .tab-link.data-v-6d25d86e {
+  color: #ffcd32;
+  border-bottom: 2px solid #ffcd32;
+}
+
+.slider-img.data-v-02c7ccd7 {
+  width: 100%;
+  height: 100%;
+}
+.scrollView.data-v-02c7ccd7 {
+  height: 1060rpx;
+}
+.list-title.data-v-02c7ccd7 {
+  height: 65px;
+  line-height: 65px;
+  text-align: center;
+  font-size: 14px;
+  color: #ffcd32;
+}
+.item.data-v-02c7ccd7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 0 20px 20px 20px;
+}
+.icon.data-v-02c7ccd7 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 60px;
+      -ms-flex: 0 0 60px;
+          flex: 0 0 60px;
+  width: 60px;
+  padding-right: 20px;
+}
+.icon-img.data-v-02c7ccd7 {
+  width: 60px;
+  height: 60px;
+}
+.text.data-v-02c7ccd7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -ms-flex: 1;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  line-height: 20px;
+  font-size: 14px;
+  line-height: 20px;
+}
+.text .name.data-v-02c7ccd7 {
+  margin-bottom: 10px;
+  color: #fff;
+}
+.text .desc.data-v-02c7ccd7 {
+  color: rgba(255,255,255,0.3);
+}
+
+.scrollView.data-v-9a7596c6 {
+  height: 1160rpx;
+}
+
+

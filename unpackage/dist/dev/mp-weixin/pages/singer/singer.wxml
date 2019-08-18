@@ -1,0 +1,1 @@
+<view class="data-v-9a7596c6"><listview vue-id="1" datas="{{singers}}" class="data-v-9a7596c6" bind:__l="__l"></listview></view>
